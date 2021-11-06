@@ -1,0 +1,166 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Lily Yu",
+    "label": "",
+    "image": "",
+    "email": "alyu@ucsd.edu",
+    "phone": "(858) 683-9768",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://linkedin.com/in/lily-yu1"
+      },
+      {
+        "network": "GitHub",
+        "username": "yu-lily",
+        "url": "https://github.com/yu-lily"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wang Lab, UC San Diego",
+	  "company": "Wang Lab, UC San Diego",
+      "location": "San Diego, CA",
+      "description": "Awesome compression company",
+      "position": "Computational Topology Research Intern",
+      "url": "",
+      "startDate": "2021-06",
+      "summary": "",
+      "highlights": [
+        "Applied novel Topological Data Analysis methods to materials science datasets provided by Intel",
+        "Explored feasibility of geometric/topological modeling for time-varying materials science data"
+      ]
+    },
+    {
+      "name": "CLIVAR and Carbon Hydrographic Data Office",
+      "location": "San Diego, CA",
+      "description": "",
+      "position": "Data Engineering Assistant",
+      "url": "http://cchdo.io",
+      "startDate": "2021-02",
+      "summary": "",
+      "highlights": [
+        "Maintained a Python pipeline that feeds data from real-world sensors to a PostgreSQL database",
+        "Built internal tooling using Python and JavaScript with a web interface for interacting with a REST API",
+		"Automated mass conversion of data in a legacy format to netCDF using Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "area": "Data Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-09-27",
+      "endDate": "2023-06-12",
+      "score": "3.84",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Piano",
+        "Production/Mixing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataHacks 2021 - LSTM Stock Prediction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Competed in undergraduate hackathon, worked with team of four",
+        "Tasked to predict S&P 500 values using historical values and other stock market indexes",
+        "Preformed feature extraction, implemented LSTM model",
+		"Placed 1st among 40+ teams, 150+ participants"
+      ],
+      "keywords": [
+		"Python", 
+		"Javscript", 
+		"D3.js"
+      ],
+      "startDate": "2021-04",
+	  "endDate": "2021-04",
+      "url": "https://yu-lily.github.io/datahacks-2021-report/",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    },
+    {
+      "name": "Music Classification with TDA",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Competed in undergraduate hackathon, worked with team of four",
+        "Tasked to predict S&P 500 values using historical values and other stock market indexes",
+        "Preformed feature extraction, implemented LSTM model",
+		"Placed 1st among 40+ teams, 150+ participants"
+      ],
+      "keywords": [
+		"Python", 
+		"Javscript", 
+		"D3.js"
+      ],
+      "startDate": "2021-05",
+      "url": "https://yu-lily.github.io/datahacks-2021-report/",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
