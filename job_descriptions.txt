@@ -1,0 +1,14 @@
+Wang Lab
+Start date 06/14/2021
+Computational Topology Research Intern
+
+-Explore application of Topological Data Analysis methods (Persistent Homology, Morse theory) on real world datasets using Python and gudhi
+-Investigate improvements to time complexity or implementation of existing TDA methods
+
+
+CLIVAR and Carbon Hydrographic Data Office
+Start date 02/13/2021
+Data Engineering Assistant
+
+-Assist in creating tooling using Python and shell scripts to manage data holdings
+-Investigate possible avenues of improving AWS backend infrastructure to improve efficiency of processes/reduce costs
