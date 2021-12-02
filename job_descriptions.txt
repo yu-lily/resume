@@ -1,9 +1,14 @@
-Wang Lab
+Wang Lab, UC San Diego
 Start date 06/14/2021
 Computational Topology Research Intern
 
 -Explore application of Topological Data Analysis methods (Persistent Homology, Morse theory) on real world datasets using Python and gudhi
 -Investigate improvements to time complexity or implementation of existing TDA methods
+
+
+- Explored feasibility of geometric/topological modeling for time-varying materials science data
+- Improved time complexity of graph skeleton approximation procedure by applying state-of-the-art graph contraction algorithms
+
 
 
 CLIVAR and Carbon Hydrographic Data Office
@@ -12,3 +17,17 @@ Data Engineering Assistant
 
 -Assist in creating tooling using Python and shell scripts to manage data holdings
 -Investigate possible avenues of improving AWS backend infrastructure to improve efficiency of processes/reduce costs
+
+
+- Modernized AWS infrastructure to take advantage of serverless frameworks (Lambda)
+- Reduced runtime of batch file conversion job from 12 hours to 5 minutes by containerizing function and leveraging
+scalable on-demand compute (Lambda, ECS)
+- Saved 50+ engineering hours over one month by creating a reusable system for parallelizing functions formalized
+with an Infrastructure as Code framework (AWS CDK)
+
+
+
+
+At CCHDO, I gained firsthand experience working with large volumes of international oceanography data. I saw the challenges that came with scaling up the office's operations,
+and learned to use tools to address scalability challenges and write more maintainable code. Stripe operates at an even larger scale than my prior workplaces,
+and I would be excited to learn about the challenges faced as well as the solutions used to deal with them.
